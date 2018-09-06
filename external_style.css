@@ -114,8 +114,8 @@ tr:nth-child(even){
 
 td{
 	text-align: center;
-    border-left: 2px black solid;
-    border-right: 2px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
 }
 /*--END TABLE--*/
 
